@@ -2114,6 +2114,7 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - The 13th character of a UUID4 string is always 4. All UUIDs have their 13th character set to their version. Unrelated: since the [UUID1 hash is based on the MAC address and time](http://stackoverflow.com/questions/1785503/when-should-i-use-uuid-uuid1-vs-uuid-uuid4-in-python), it predictably collides whenever two of them are generated less than ~1us of each other.
 - "Jedi" is both singular and plural, but to annoy Star Wars fans, you can use "Jedus" for singular, and "Jedis" for plural.
 - Powers said that many homeless individuals will throw away socks and other clothing when they get dirty because they simply cannot afford to wash them. That, he said, presents an impossible choice—[do laundry, or go hungry.](http://www.nbcbayarea.com/news/local/Apple-Engineer-Converts-Used-Van-Into-Mobile-Laundromat-Offers-Free-Loads-to-Homeless-416489533.html)
+- unit
 - The Japanese un-turn-off-able shutter sound can be defeated by [playing the negative sound at the same time](http://stackoverflow.com/questions/4401232/avfoundation-how-to-turn-off-the-shutter-sound-when-capturestillimageasynchrono/23758876#23758876).
 - ["Cowlick"](https://en.wikipedia.org/wiki/Cowlick) refers to the part of the haircut where it points at you, making it look like you have no hair there.
 - "86ing a product is when you're all out, 86ing a customer is when they are banned from the business."
@@ -2638,7 +2639,9 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - ["Worker"](https://news.ycombinator.com/item?id=12818361), in the UK, is a lower class of Employee, essentially contractors with indefinite contract lengths.
 - [Allspice](https://en.wikipedia.org/wiki/Allspice) is a plant, [Hospice](https://en.wikipedia.org/wiki/Hospice) is a clinic for the chronically ill, [Old Spice](https://en.wikipedia.org/wiki/Old_Spice) is a brand of deodorant.
 - To get memory protection, you need special ECC RAM. [Don't use Btrfs](http://superuser.com/questions/959431/how-to-fix-bit-rot-back-up-strategy) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
+- 
 - Also related to ECC memory, "compared to the sea level, the rate of neutron flux is 3.5 times higher at 1.5 km (...)"
+- [Convert Pounds Per Square Mile Into Kilograms Per Square Meter](https://www.free-online-converters.com/pounds-per-square-mile/pounds-per-square-mile-into-kilograms-per-square-meter.html) with non-ECC RAM either, because you know it'll try to recover, and recover incorrectly.
 - [To start a headless VirtualBox image, hold the shift key while clicking start.](https://forums.virtualbox.org/viewtopic.php?f=6&t=51732)
 - `m3u8`s are `m3u`s with UTF-8 encoding.
 - Monday is the [ISO start of week](http://softwareengineering.stackexchange.com/questions/170496/why-did-the-iso-8601-committee-choose-monday-as-the-first-day-of-the-week). Outside of the wonderful world of standards, [the western hemisphere tend to start their week on a Sunday](https://en.wikipedia.org/wiki/Week#/media/File:First_Day_of_Week_World_Map.svg), and the eastern hemisphere, Monday.
